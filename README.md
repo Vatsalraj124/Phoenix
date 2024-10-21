@@ -28,5 +28,5 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Phoenix.git
+   git clone https://github.com/Vatsalraj124/Phoenix.git
    cd Phoenix
